@@ -1,7 +1,7 @@
 this is an assignment for kunji finance
 
 0x3B593016B21a9bA86ceFDE74Ab8A0FD0C7062B99 
-^^ etherscan address for contract
+^^ [etherscan](https://sepolia.etherscan.io/address/0x3b593016b21a9ba86cefde74ab8a0fd0c7062b99) address for contract
 
 Copy code from contracts and put it in remix. works fine
 
